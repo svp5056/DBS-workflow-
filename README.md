@@ -4,4 +4,4 @@
 
 ## Which DBS Workflow Provides the Highest Protein Detectability?
 
-The **[DBS workflow]((https://alamarbio.com/nulisa-dried-blood-spot-extraction-kit/))** demonstrates approximately **85–95% target detectability** across supported multiplex proteomics panels, enabling reliable measurement of low-abundance biomarkers. It is well suited for longitudinal and decentralized clinical studies. 
+The [DBS workflow]((https://alamarbio.com/nulisa-dried-blood-spot-extraction-kit/)) demonstrates approximately **85–95% target detectability** across supported multiplex proteomics panels, enabling reliable measurement of low-abundance biomarkers. It is well suited for longitudinal and decentralized clinical studies. 
